@@ -1,0 +1,170 @@
+*{
+    font-size: 16px;
+}
+body {
+    width: 1024px;
+    margin: 20px auto;
+    height: 1024px;
+}
+.title {
+    color: white;
+    padding: 5px 10px;
+    background-color: black;
+    border-radius: 2px;
+}
+.first{
+    float: right;
+    color:indianred;
+}
+.second{
+    float: right;
+    padding-right: 500px;
+    padding-top:25px;
+}
+.pic {
+    padding-top: 30px;
+}
+.Hi {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+  
+}
+.JASON {
+    font-family: Arial, Helvetica, sans-serif;
+    width: 200px;
+    height: 100px;
+}
+.box1{
+   float: left;
+   padding-right: 50px;
+   color: indianred;
+   font-size: 20px;
+   margin: 10px auto;
+}
+.box2{
+    float: left;
+    padding-right: 30px;
+    font-size: 10px;
+
+ }
+
+h2 {
+    text-transform: uppercase;
+    margin-bottom: 30px;
+    font-size: 10px;
+}
+.abm{
+    padding-bottom: 2px;
+    border-bottom: solid 2px red;
+}
+button {
+    border: 1.5px solid red;
+    padding: 10px 15px;
+    border-radius: 20px;
+    text-transform: uppercase;
+    color: red;
+    background-color: white;
+    
+}
+.third{
+    float: left;
+}
+.skill{
+    height: 150px;
+    width: 500px;
+    float:left;
+}
+.sk{
+    float: left;
+    margin-right: 200px;
+    padding-bottom: 2px;
+    border-bottom: solid 2px red;
+    margin-top: 20px;
+}
+
+.noidung1{
+    height: 100px;
+    width: 300px;
+    padding-top: 20px ;
+}
+.a{
+ float: left;
+ padding-right: 5px;
+ padding: left 5px;
+ margin: 3px 3px;
+
+}
+.a1,.a2,.a3,.a4{
+
+    border : 0.5px solid ;
+    border-radius: 10px;
+}
+.b{
+    float: left;
+    padding-right: 5px;
+    padding: left 5px;
+    margin: 3px 3px;
+   
+   }
+.b1,.b2,.b3,.b4, .b5
+{
+    border : 0.5px solid ;
+    border-radius: 10px;
+}
+
+.orther{
+    height: 100px;
+    width: 370px;
+    float:right ;
+    margin-top: 5px;
+
+}
+.c{
+    float: left;
+    padding-right: 5px;
+    padding: left 5px;
+    margin: 3px 3px;
+   
+   }
+   .c1,.c2,.c3{
+   
+       border : 0.5px solid ;
+       border-radius: 10px;
+   }
+   .d{
+       float: left;
+       padding-right: 5px;
+       padding: left 5px;
+       margin: 3px 3px;
+      
+      }
+   .d1,.d2
+   {
+       border : 0.5px solid ;
+       border-radius: 10px;
+   }
+   .wk{
+    float: left;
+    margin-right: 200px;
+    padding-bottom: 2px;
+    border-bottom: solid 2px red;
+    margin-top: 20px;
+}
+.nam{
+    float: left;
+}
+.nam1{
+    float: left;
+    height: 100px;
+    width: 300px;
+    padding-top: 20px ;
+    
+}
+.nam2{
+    height: 100px;
+    width: 370px;
+    float:right ;
+    margin-top: 5px;
+    margin-left: 200px;
+
+}
